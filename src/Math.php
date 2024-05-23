@@ -200,7 +200,7 @@ class PhpUnderControl_Example_Math
         for ($i = 0; $i < $v6; $i++)
         {
             shuffle( $d );
-            $v7 = $v7 + $i * end($d);
+            $v7 = $v7 + $i * end($d); //TODO
         }
 
         $v8 = $v7;
