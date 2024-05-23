@@ -1,6 +1,6 @@
-projectKey=JS
+projectKey=monorepo_project_key_2
 serverUrl=http://localhost:9930
 serverVersion=9.9.3.79811
-dashboardUrl=http://localhost:9930/dashboard?id=JS
-ceTaskId=AY86G6FH3SCM1pNH1FL7
-ceTaskUrl=http://localhost:9930/api/ce/task?id=AY86G6FH3SCM1pNH1FL7
+dashboardUrl=http://localhost:9930/dashboard?id=monorepo_project_key_2
+ceTaskId=AY-l9sm8q2jN749E4vxp
+ceTaskUrl=http://localhost:9930/api/ce/task?id=AY-l9sm8q2jN749E4vxp
